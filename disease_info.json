@@ -1,0 +1,192 @@
+{
+  "0": {
+    "name": "Apple \u2014 Apple scab",
+    "description": "Fungal disease causing olive-brown spots on leaves and fruit; can lead to distortion and drop.",
+    "solution": "Prune for airflow, remove infected debris, apply protective fungicides at early season if needed."
+  },
+  "1": {
+    "name": "Apple \u2014 Black rot",
+    "description": "Fungal disease causing leaf spots and fruit rot; concentric rings on fruit.",
+    "solution": "Prune out cankers, remove mummified fruit, use copper or labeled fungicides when appropriate."
+  },
+  "2": {
+    "name": "Apple \u2014 Cedar apple rust",
+    "description": "Orange rust spots on apple leaves due to Gymnosporangium; lifecycle alternates with junipers.",
+    "solution": "Remove nearby junipers if possible; apply protective fungicides during spring infection period."
+  },
+  "3": {
+    "name": "Apple \u2014 healthy",
+    "description": "Leaf appears healthy with no visible disease symptoms.",
+    "solution": "Maintain good nutrition and sanitation; continue regular monitoring."
+  },
+  "4": {
+    "name": "Blueberry \u2014 healthy",
+    "description": "Leaf appears healthy with no visible disease symptoms.",
+    "solution": "Maintain good nutrition and sanitation; continue regular monitoring."
+  },
+  "5": {
+    "name": "Cherry (including sour) \u2014 Powdery mildew",
+    "description": "White powdery fungal growth on leaf surfaces; can cause curling and reduced vigor.",
+    "solution": "Improve airflow, avoid overhead irrigation, and apply sulfur or other labeled fungicides."
+  },
+  "6": {
+    "name": "Cherry (including sour) \u2014 healthy",
+    "description": "Leaf appears healthy with no visible disease symptoms.",
+    "solution": "Maintain good nutrition and sanitation; continue regular monitoring."
+  },
+  "7": {
+    "name": "Corn (maize) \u2014 Cercospora leaf spot Gray leaf spot",
+    "description": "Rectangular gray lesions bounded by veins; reduces photosynthesis and yield.",
+    "solution": "Rotate crops, use resistant hybrids, manage residue, and consider fungicide at tasseling if severe."
+  },
+  "8": {
+    "name": "Corn (maize) \u2014 Common rust",
+    "description": "Reddish-brown pustules on both leaf surfaces caused by Puccinia sorghi.",
+    "solution": "Use resistant hybrids; fungicides only if severe and susceptible variety at early stages."
+  },
+  "9": {
+    "name": "Corn (maize) \u2014 Northern Leaf Blight",
+    "description": "Long cigar-shaped gray-green lesions; can coalesce and blight leaves.",
+    "solution": "Plant resistant hybrids, rotate crops, manage residue; fungicide based on risk and growth stage."
+  },
+  "10": {
+    "name": "Corn (maize) \u2014 healthy",
+    "description": "Leaf appears healthy with no visible disease symptoms.",
+    "solution": "Maintain good nutrition and sanitation; continue regular monitoring."
+  },
+  "11": {
+    "name": "Grape \u2014 Black rot",
+    "description": "Circular leaf spots with dark margins; fruit shrivels into black mummies.",
+    "solution": "Remove mummies and infected shoots; apply protective sprays from pre-bloom through fruit set."
+  },
+  "12": {
+    "name": "Grape \u2014 Esca (Black Measles)",
+    "description": "Tiger-striping on leaves; berries may develop black spots and shrivel.",
+    "solution": "Prune out infected wood, avoid trunk injuries, and improve vine vigor; no curative sprays."
+  },
+  "13": {
+    "name": "Grape \u2014 Leaf blight (Isariopsis Leaf Spot)",
+    "description": "Irregular brown lesions on leaves; may defoliate under humid conditions.",
+    "solution": "Improve canopy airflow; remove infected leaves; use labeled fungicides if needed."
+  },
+  "14": {
+    "name": "Grape \u2014 healthy",
+    "description": "Leaf appears healthy with no visible disease symptoms.",
+    "solution": "Maintain good nutrition and sanitation; continue regular monitoring."
+  },
+  "15": {
+    "name": "Orange \u2014 Haunglongbing (Citrus greening)",
+    "description": "Serious bacterial disease causing blotchy mottle, yellow shoots, small misshapen fruit.",
+    "solution": "Control psyllid vector, remove infected trees where mandated, use clean planting material."
+  },
+  "16": {
+    "name": "Peach \u2014 Bacterial spot",
+    "description": "Angular leaf spots and fruit blemishes; caused by Xanthomonas.",
+    "solution": "Plant tolerant cultivars, avoid overhead irrigation, apply copper/bactericides per label."
+  },
+  "17": {
+    "name": "Peach \u2014 healthy",
+    "description": "Leaf appears healthy with no visible disease symptoms.",
+    "solution": "Maintain good nutrition and sanitation; continue regular monitoring."
+  },
+  "18": {
+    "name": "Pepper, bell \u2014 Bacterial spot",
+    "description": "Water-soaked lesions on leaves and fruit that turn dark and scabby.",
+    "solution": "Use certified seed/transplants, copper plus mancozeb rotations, avoid handling when wet."
+  },
+  "19": {
+    "name": "Pepper, bell \u2014 healthy",
+    "description": "Leaf appears healthy with no visible disease symptoms.",
+    "solution": "Maintain good nutrition and sanitation; continue regular monitoring."
+  },
+  "20": {
+    "name": "Potato \u2014 Early blight",
+    "description": "Concentric-ring lesions starting on older leaves; caused by Alternaria.",
+    "solution": "Rotate crops, avoid stress, and apply protectant fungicides starting at row closure if needed."
+  },
+  "21": {
+    "name": "Potato \u2014 Late blight",
+    "description": "Water-soaked lesions with white sporulation at margins under cool, wet conditions.",
+    "solution": "Use certified seed, destroy cull piles, apply systemic + protectant fungicides under high risk."
+  },
+  "22": {
+    "name": "Potato \u2014 healthy",
+    "description": "Leaf appears healthy with no visible disease symptoms.",
+    "solution": "Maintain good nutrition and sanitation; continue regular monitoring."
+  },
+  "23": {
+    "name": "Raspberry \u2014 healthy",
+    "description": "Leaf appears healthy with no visible disease symptoms.",
+    "solution": "Maintain good nutrition and sanitation; continue regular monitoring."
+  },
+  "24": {
+    "name": "Soybean \u2014 healthy",
+    "description": "Leaf appears healthy with no visible disease symptoms.",
+    "solution": "Maintain good nutrition and sanitation; continue regular monitoring."
+  },
+  "25": {
+    "name": "Squash \u2014 Powdery mildew",
+    "description": "White powdery patches on cucurbit leaves and stems; reduces vigor.",
+    "solution": "Plant tolerant varieties, improve airflow, and apply sulfur or other labeled fungicides early."
+  },
+  "26": {
+    "name": "Strawberry \u2014 Leaf scorch",
+    "description": "Small purplish spots that coalesce into scorched areas; usually cosmetic but can reduce vigor.",
+    "solution": "Remove old leaves post-harvest, improve airflow, and use labeled fungicides if severe."
+  },
+  "27": {
+    "name": "Strawberry \u2014 healthy",
+    "description": "Leaf appears healthy with no visible disease symptoms.",
+    "solution": "Maintain good nutrition and sanitation; continue regular monitoring."
+  },
+  "28": {
+    "name": "Tomato \u2014 Bacterial spot",
+    "description": "Small water-soaked leaf spots and fruit specks; thrives in warm, wet weather.",
+    "solution": "Use disease-free seed/transplants, copper-based sprays, avoid working plants when wet."
+  },
+  "29": {
+    "name": "Tomato \u2014 Early blight",
+    "description": "Concentric target-like lesions on lower leaves; defoliation common.",
+    "solution": "Mulch to reduce splash, prune lower leaves, rotate, and use protectant fungicides."
+  },
+  "30": {
+    "name": "Tomato \u2014 Late blight",
+    "description": "Rapid blighting with pale green to brown lesions and white sporulation in cool, moist conditions.",
+    "solution": "Remove infected plants, avoid overhead irrigation, and apply appropriate fungicides promptly."
+  },
+  "31": {
+    "name": "Tomato \u2014 Leaf Mold",
+    "description": "Olive-green velvety growth on undersides of leaves in humid greenhouses.",
+    "solution": "Increase ventilation, reduce humidity, water at base, and use labeled fungicides."
+  },
+  "32": {
+    "name": "Tomato \u2014 Septoria leaf spot",
+    "description": "Numerous small circular spots with dark margins and light centers on lower leaves.",
+    "solution": "Remove infected leaves, improve airflow, rotate, and apply protectant fungicides."
+  },
+  "33": {
+    "name": "Tomato \u2014 Spider mites Two-spotted spider mite",
+    "description": "Tiny mites cause stippling, bronzing, and fine webbing; thrive in hot, dry conditions.",
+    "solution": "Spray water to reduce dust, introduce predators, use miticides if necessary."
+  },
+  "34": {
+    "name": "Tomato \u2014 Target Spot",
+    "description": "Brown lesions with concentric rings leading to defoliation, often in humid tropics.",
+    "solution": "Improve airflow, avoid leaf wetness, and apply labeled fungicides."
+  },
+  "35": {
+    "name": "Tomato \u2014 Tomato Yellow Leaf Curl Virus",
+    "description": "Virus causes upward leaf curling, yellowing, and stunted growth; transmitted by whiteflies.",
+    "solution": "Manage whiteflies (nets, mulches, insecticides), remove infected plants, use tolerant varieties."
+  },
+  "36": {
+    "name": "Tomato \u2014 Tomato mosaic virus",
+    "description": "Mosaic mottling and leaf distortion; virus spreads by contact/contaminated tools.",
+    "solution": "Sanitize tools, avoid tobacco handling, use resistant varieties; no cure\u2014remove infected plants."
+  },
+  "37": {
+    "name": "Tomato \u2014 healthy",
+    "description": "Leaf appears healthy with no visible disease symptoms.",
+    "solution": "Maintain good nutrition and sanitation; continue regular monitoring."
+  }
+}
