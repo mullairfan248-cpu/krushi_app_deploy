@@ -1,6 +1,5 @@
-datetime
+streamlit==1.37.0
 numpy
-pillow
-streamlit
+Pillow
 tensorflow
-time
+protobuf==3.20.*
